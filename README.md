@@ -3,6 +3,8 @@
 
 # ESL Survey
 
+App which allows users to download a list of building surveys, select a survey, download the survey and fillout the survey with the user input being added to the datasbase where the survey is stored. 
+
 ## Goal of Application
 
 - To allow users to register/login - (Completed)
