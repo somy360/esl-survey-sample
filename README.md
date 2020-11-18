@@ -1,6 +1,3 @@
-![ESL Services Banner](URL to PNG)
-
-
 # ESL Survey
 
 App which allows users to download a list of building surveys, select a survey, download the survey and fillout the survey with the user input being added to the datasbase where the survey is stored. 
